@@ -1,0 +1,9 @@
+title = "Final Fantasy Explorers "
+description = "Final Fantasy Explorers is an action role-playing video game featuring single-player and multiplayer modes. The player starts the game on an island featuring various locations, but can access other areas beyond the island on foot.[5] The main goal of the player is to collect crystals scattered across the world.[6] Unlike other narrative-driven entries in the Final Fantasy series, Explorers follows a quest-driven structure."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000016E700"
+region = "eur"
+release_date = "2016-01-29"
